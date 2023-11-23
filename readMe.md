@@ -18,17 +18,13 @@ Before you begin, ensure you have met the following requirements:
 
 ## Steps to using this program
 
-1.
-git clone https://github.com/yourusername/NFT-Liquidity-Explorer.git
-cd NFT-Liquidity-Explorer
+1. git clone https://github.com/yourusername/NFT-Liquidity-Explorer.git
+    cd NFT-Liquidity-Explorer
 
-2.
-Add your OpenSea API key.
-    For more information on obtaining an API key, go to https://docs.opensea.io/
+2. Add your OpenSea API key.
+*For more information on obtaining an API key, go to https://docs.opensea.io/
 
-3.
-Run the script
+3. Run the script
 
-4.
-Enter your wallet address
-    EX: 0x1234567890123456789012345678901234567890
+4. Enter your wallet address
+*EX: 0x1234567890123456789012345678901234567890
